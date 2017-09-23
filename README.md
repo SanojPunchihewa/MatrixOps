@@ -1,4 +1,7 @@
 # MatrixOps
+
+## Make Matrix ##
+
 - Simple Java Program to make a Random Matrix
 -	HOW TO USE
 
